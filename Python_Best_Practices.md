@@ -39,11 +39,15 @@ Implement modern software development best practices policies and procedures. Us
 - Jenkins
 - Atlassian Bamboo
 
-# Version Control
-- Git
+## Version Control
 - Atlassian Fisheye
 - Atlassian Bitbucket
 - GitHub
+- Git
+  - Policy enforcement
+  - Static analysis
+  - Pre Commit Hooks
+  - Post Commit Hooks
 
 ## Documentation
 
@@ -55,16 +59,31 @@ Implement modern software development best practices policies and procedures. Us
 - "Publish or Perish" :) development/developer websites
 - [PEP 257 - Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
 
+## Standardized Developer Tools
+- Platforms
+- Integrated development environments
+- Coding tools
+- Debugging tools
+- Testing tools
+- Documentation tools
 
-# Project Management
+## Project Management
 - CA Rally
 - Atlassian Jira
 
-## Version Control
+## Training
 
-- Git
-  - Pre Commit Hooks
-  - Post Commit Hooks
+- Online training courses
+- Online video classrooms
+- Peer to peer training
+  - Pair programming
+  - Lunch and learn
+  - Chalk talks
+- MDA developers wiki
+  - Confluence
+  - Sharepoint
+  - MediaWiki
+  - GitHub
 
 ## References
 
