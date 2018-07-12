@@ -11,8 +11,8 @@ Implement modern software development best practices policies and procedures. Us
   - Implement continous integration procedure
   - Implement automated testing procedure
 - Policies
-  - Coding Style & Static Analysis (pre/post git hooks)
-  - Branch names (Link sprints/branches/issues)
+  - Coding style, code coverage, static analysis (pre/post git hooks)
+  - Branch names (Link sprints/branches/issues/tests)
 
 ## Coding Style
 
