@@ -14,11 +14,13 @@ Implement modern software development best practices policies and procedures. Us
   - Coding style, code coverage, static analysis (pre/post git hooks)
   - Branch names (Link sprints/branches/issues/tests)
 
-## Coding Style
+## Coding Style and Methodologies
 
 - PEP 8
 - PEP 20
-- Hitch Hikers Guide
+- Hitch Hikers Guide to Python
+- [Common design patterns in Python](https://github.com/faif/python-patterns)
+- [An "awesome" list of Python resources](https://github.com/vinta/awesome-python)
 
 ## Code Reviews
 
@@ -56,7 +58,7 @@ Implement modern software development best practices policies and procedures. Us
 - Doxygen
 - Markdown
 - Atlassian Confluence
-- "Publish or Perish" :) development/developer websites
+- Publish development and developer websites
 - [PEP 257 - Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
 
 ## Standardized Developer Tools
